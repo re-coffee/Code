@@ -1,0 +1,2 @@
+Pasta destinada a códigos fonte de serviços
+(Verificar os arquivos LEIAME.txt de cada subpasta para mais informações)
