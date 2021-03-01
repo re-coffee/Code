@@ -1,5 +1,4 @@
 import abc
-import psycopg2
 
 class Banco(metaclass=abc.ABCMeta):
     @classmethod

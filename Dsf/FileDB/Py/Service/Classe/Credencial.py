@@ -1,5 +1,3 @@
-from Criptografia import Senha
-
 class Credencial():
     def __init__(self, banco, base, ip, porta, usuario, senha):
         self.banco = banco
@@ -7,5 +5,4 @@ class Credencial():
         self.ip = ip
         self.porta = porta
         self.usuario = usuario
-        chave = Senha()
-        self.senha = chave.Criptografar()
+        self.senha = senha
